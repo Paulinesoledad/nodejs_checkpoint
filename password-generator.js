@@ -14,6 +14,7 @@ var generateRandomPassword = function() {
   };
 
   // Generate a random password
+  
   var password = generatePassword.generate(passwordOptions);
 
   return password;
